@@ -1,0 +1,4 @@
+baseURL = 'http://dalexander.io/'
+languageCode = 'en-us'
+title = 'Dory Alexander'
+theme = 'cactus'
