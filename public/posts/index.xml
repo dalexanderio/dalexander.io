@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dory Alexander</title>
-    <link>/</link>
-    <description>Recent content on Dory Alexander</description>
+    <title>Posts on Dory Alexander</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Dory Alexander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jan 2023 20:36:49 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 20:36:49 -0600</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo and AWS Amplify</title>
       <link>/posts/my-first-post/</link>
@@ -14,15 +14,6 @@
       
       <guid>/posts/my-first-post/</guid>
       <description>Hugo along with jekyll have been the go-to frameworks for static website hosting for a while now. I find github pages to be the most common way to host a hugo site but Amplify only takes a few clicks to configure everything - especially if you&amp;rsquo;re using Route53 for DNS. Personally, I love AWS but dislike Amazon as a company. Luckily Amplify is free tier elegible so you can host away, guilt free!</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I&amp;rsquo;m Dory, a 28-year-old cybersecurity engineer with a focus on cloud application and CI/CD pipeline security. In my free time, I love to travel, swim, cycle and cook. I also enjoy tinkering with software-defined radio and Raspberry Pi&amp;rsquo;s, and I am an avid outdoors enthusiast.</description>
     </item>
     
   </channel>
