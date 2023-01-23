@@ -32,7 +32,7 @@ weight = 3
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/dalexander"
+    link = "https://github.com/dalexanderio"
   [[params.social]]
     name = "email"
     link = "dory@dalexander.io"  # no need for "mailto:" in the head
