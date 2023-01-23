@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Dory Alexander'
-theme = 'cactus'
+theme = 'cactus1'
 # Main menu which appears below site header.
 
 [[menu.main]]
