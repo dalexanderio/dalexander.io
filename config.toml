@@ -2,3 +2,28 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Dory Alexander'
 theme = 'cactus'
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[params]
+
+  colortheme = "dark" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+  showAllPostsArchive = false # default
+
+  # Home page settings
+  description = "Securing the Cloud, Fueled by a Passion for Technology, Food, Travel, and Adventure"
