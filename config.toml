@@ -2,8 +2,8 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Dory Alexander'
 theme = 'cactus'
-logo = 'logo'
 # Main menu which appears below site header.
+
 [[menu.main]]
 name = "Home"
 url = "/"
