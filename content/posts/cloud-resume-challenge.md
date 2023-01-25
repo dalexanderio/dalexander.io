@@ -15,7 +15,7 @@ The basics of the challenge are:
 -   Source control is used and checks are done for any Python code running Lambda functions to update your database
 -   You incorporate some element of IaC for updating your website
 
- Finally, you post about what you have learned.
+Finally, you post about what you have learned.
 
 Pretty straightforward, right?
 
