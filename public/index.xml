@@ -6,7 +6,18 @@
     <description>Recent content on Dory Alexander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jan 2023 20:36:49 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 18:22:44 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Resume Challenge</title>
+      <link>/posts/cloud-resume-challenge/</link>
+      <pubDate>Tue, 24 Jan 2023 18:22:44 -0600</pubDate>
+      
+      <guid>/posts/cloud-resume-challenge/</guid>
+      <description>I first heard about the cloud resume challenge a few months ago while studying for the AWS SysOps Administrator certification. The premise is using several AWS services to create a resume website that practically demonstrates the skills needed for a cloud engineering job.
+The basics of the challenge are:
+The site is hosted as a S3 static website CloudFront is used to provide a CDN as well as HTTPS The website uses HTML and CSS in such a way as to create a pleasant design The site has a visitor counter that uses a combination of Javascript and a DynamoDB backend that communicates through an AWS API gateway Source control is used and checks are done for any Python code running Lambda functions to update your database You incorporate some element of IaC for updating your website Finally, you post about what you have learned.</description>
+    </item>
+    
     <item>
       <title>Hugo and AWS Amplify</title>
       <link>/posts/my-first-post/</link>
