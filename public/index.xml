@@ -6,7 +6,16 @@
     <description>Recent content on Dory Alexander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2023 12:18:30 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 11:56:07 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPTranslate</title>
+      <link>/posts/gptranslate/</link>
+      <pubDate>Wed, 01 Feb 2023 11:56:07 -0600</pubDate>
+      
+      <guid>/posts/gptranslate/</guid>
+      <description>Using ChatGPT for more effective translations. I&amp;rsquo;m currently working remotely in Mexico and as a Canadian I&amp;rsquo;ve never really been exposed to Spanish in my home country. This has made it especially hard to learn as I was starting from absolute zero. Duolingo was of some use for grammar (not so much for manzanas) but for day-to-day phrases I&amp;rsquo;ve relied on good ol&amp;rsquo; Google translate. This is OK for most situations, but I&amp;rsquo;ve learned that what might be a correct translation isn’t always how people speak.</description>
+    </item>
+    
     <item>
       <title>Jamaica</title>
       <link>/posts/jamaica/</link>
