@@ -2,7 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Dory Alexander'
 theme = 'cactus1'
-# Main menu which appears below site header.
+# menu which appears below site header.
 
 [[menu.main]]
 name = "Home"
