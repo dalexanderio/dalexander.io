@@ -143,7 +143,7 @@ var searchFunc = function(path, searchId, contentId) {
             return b.rank - a.rank;
         });
         var result ="<ul class=\"search-result-list\">";
-        for (var i = 0; i < resultList.length; i++) {
+        for (let i = 0; i < resultList.length; i++) {
           result += resultList[i].str;
         }
         result += "</ul>";
